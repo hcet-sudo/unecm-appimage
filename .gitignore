@@ -1,0 +1,5 @@
+dist/
+*.AppImage
+*.AppDir/
+testarea/
+__pycache__/
